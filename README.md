@@ -149,7 +149,7 @@ python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source inferen
 
 ## Export
 
-**Pytorch to Onnx (Inline and inference with OpenVINO™ Torch-ORT)** href="https://colab.research.google.com/gist/mmcquade11/976c2a4926d3f35acb7a4265d222d255/how-to-train-yolov7-model-on-a-custom-dataset.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+**Pytorch to Onnx (Inline and inference with OpenVINO™ Torch-ORT)** <a href="https://colab.research.google.com/gist/mmcquade11/976c2a4926d3f35acb7a4265d222d255/how-to-train-yolov7-model-on-a-custom-dataset.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 In-line conversion to Onnx:
 https://github.com/pytorch/ort/blob/main/torch_ort_inference/docs/usage.md#additional-apis
